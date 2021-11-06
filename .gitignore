@@ -1,4 +1,3 @@
-
 # Created by https://www.toptal.com/developers/gitignore/api/java,androidstudio,android
 # Edit at https://www.toptal.com/developers/gitignore?templates=java,androidstudio,android
 
@@ -116,7 +115,6 @@ output.json
 *.war
 *.nar
 *.ear
-*.zip
 *.tar.gz
 *.rar
 
