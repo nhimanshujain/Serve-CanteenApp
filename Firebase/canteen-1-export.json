@@ -1,0 +1,423 @@
+{
+  "Category" : {
+    "1" : {
+      "image" : "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimg1.cookinglight.timeinc.net%2Fsites%2Fdefault%2Ffiles%2F1536699573%2FMapleCauliBites.jpg",
+      "name" : "FINGER FOODS"
+    },
+    "2" : {
+      "image" : "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/delish-classic-tomato-soup-seo-01-1539282214.jpg",
+      "name" : "WESTERN SOUP"
+    },
+    "3" : {
+      "image" : "https://previews.123rf.com/images/indianfoodimages/indianfoodimages1906/indianfoodimages190600904/125142486-cheese-masala-dosa-recipe-with-sambar-and-chutney-selective-focus.jpg",
+      "name" : "MASALA DOSA"
+    },
+    "4" : {
+      "image" : "https://www.indianhealthyrecipes.com/wp-content/uploads/2019/05/chicken-fried-rice-500x500.jpg",
+      "name" : "FRIED RICE"
+    },
+    "5" : {
+      "image" : "https://www.manusmenu.com/wp-content/uploads/2015/01/1-Chicken-Spring-Rolls-9-1-of-1.jpg",
+      "name" : "ROLLS"
+    },
+    "-M4Pq2Pom67vT_oM8Yx7" : {
+      "image" : "https://firebasestorage.googleapis.com/v0/b/canteen-1.appspot.com/o/images%2Fb25ff197-19e6-42e8-b0a2-576a896c5ba7?alt=media&token=10c757b4-b309-4934-8c74-9b81da0250c6",
+      "name" : "Deserts"
+    },
+    "-M588-20J95JvYjR0Nij" : {
+      "image" : "https://firebasestorage.googleapis.com/v0/b/canteen-1.appspot.com/o/images%2Fee925857-925f-42d8-992a-44a264508f5b?alt=media&token=658df35b-c1d3-4733-9427-1c2b26f363aa",
+      "name" : "ice sticks"
+    },
+    "-MoZ8F4sMlSxDKIuI0jt" : {
+      "image" : "https://firebasestorage.googleapis.com/v0/b/canteen-1.appspot.com/o/images%2Fc8ecfa63-11f4-4ae3-b0dc-b6b9d311ec78?alt=media&token=db052884-29f3-453b-b748-08638dc644d5",
+      "name" : "Shahbaaz Khan"
+    }
+  },
+  "Foods" : {
+    "01" : {
+      "description" : "Spicy South Breakfast with delicious Chutney",
+      "discount" : "0",
+      "image" : "https://previews.123rf.com/images/indianfoodimages/indianfoodimages1906/indianfoodimages190600904/125142486-cheese-masala-dosa-recipe-with-sambar-and-chutney-selective-focus.jpg",
+      "menuId" : "3",
+      "name" : "Masala Dosa",
+      "price" : "50"
+    },
+    "02" : {
+      "description" : "Spicy veggies and cheese",
+      "discount" : "0",
+      "image" : "https://5.imimg.com/data5/UE/EM/MY-14256424/veg-rolls-1-kg-20-pcs-500x500.jpg",
+      "menuId" : "5",
+      "name" : "Rolls",
+      "price" : "60"
+    },
+    "03" : {
+      "description" : "Spicy veggie Rice with tossed onions",
+      "discount" : "0",
+      "image" : "https://www.indianhealthyrecipes.com/wp-content/uploads/2019/05/chicken-fried-rice-500x500.jpg",
+      "menuId" : "4",
+      "name" : "Vegan rice",
+      "price" : "55"
+    },
+    "05" : {
+      "description" : "Steamy Potatoes on your fingers with extra sp",
+      "discount" : "0",
+      "image" : "https://www.dinneratthezoo.com/wp-content/uploads/2020/01/baked-french-fries-5.jpg",
+      "menuId" : "1",
+      "name" : "French Fries",
+      "price" : "50"
+    },
+    "-M4JVGXERakq4GA_Wnp4" : {
+      "description" : "Paneer Dosa",
+      "discount" : "0",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/canteen-1.appspot.com/o/images%2Ff2c5f1a7-9a87-4fe8-a948-b47e2265d86c?alt=media&token=230d9844-506f-46b3-8c27-08ef7efcc8d0",
+      "menuId" : "3",
+      "name" : "Paneer Dosa",
+      "price" : "80"
+    },
+    "-M4PqHX6Hfq1A3lDkOs9" : {
+      "description" : "sweet",
+      "discount" : "0",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/canteen-1.appspot.com/o/images%2Faab2a1fe-a3d1-4572-9e7b-b0af18a73a14?alt=media&token=638429f0-33b5-4163-9d2c-869fed66250d",
+      "menuId" : "-M4Pq2Pom67vT_oM8Yx7",
+      "name" : "Halwa",
+      "price" : "90"
+    },
+    "-M4geBNHDWTD9qnrmull" : {
+      "description" : "Delicious bread crumbs with Sliced Tomatoes and pepper",
+      "discount" : "0",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/canteen-1.appspot.com/o/images%2F56ca4cf6-9bab-43f6-aa0a-53ac16f8a3c9?alt=media&token=229f9a70-3590-4fba-9025-714daf4edd6a",
+      "menuId" : "2",
+      "name" : "Tangy Tomato",
+      "price" : "60"
+    },
+    "-M50-Xusx-c8CAOkg_ay" : {
+      "description" : "Popular drink during summer ",
+      "discount" : "0",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/canteen-1.appspot.com/o/images%2Fcec84ce7-fa40-4c85-a894-89f0c5e53098?alt=media&token=23189300-62f8-4c87-ad67-044c53e48c78",
+      "menuId" : "-M50-Le8j2S3Bunps4ek",
+      "name" : "Mango Juice",
+      "price" : "50"
+    },
+    "-M50Gv8LPJGzHeX37XHb" : {
+      "description" : "tasty",
+      "discount" : "0",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/canteen-1.appspot.com/o/images%2F3c4ae2a8-a52f-4a27-aaf9-fdb981c3b363?alt=media&token=07ab0359-d955-44de-9ef4-9a96f3162801",
+      "menuId" : "-M50GAPCaaTkSpoS3uFn",
+      "name" : "pizza",
+      "price" : "120"
+    },
+    "-MoZ8LNp4_3VgQdCK1Ld" : {
+      "description" : "vvg",
+      "discount" : "209",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/canteen-1.appspot.com/o/images%2F2827f072-914c-4110-9587-7ebf11c7c827?alt=media&token=99a56bba-3b2f-4c4a-95a6-1f19ed4818fc",
+      "menuId" : "1",
+      "name" : "Shahbaaz Khan",
+      "price" : "1000"
+    }
+  },
+  "Requests" : {
+    "1587018298844" : {
+      "foods" : [ {
+        "discount" : "0",
+        "price" : "60",
+        "productID" : "-M4geBNHDWTD9qnrmull",
+        "productName" : "Tangy Tomato",
+        "quantity" : "1"
+      } ],
+      "name" : "Soorya",
+      "phone" : "9538256281",
+      "srn" : "pes1201802827",
+      "status" : "2",
+      "total" : "$60.00"
+    },
+    "1587022265802" : {
+      "foods" : [ {
+        "discount" : "0",
+        "price" : "60",
+        "productID" : "02",
+        "productName" : "Rolls",
+        "quantity" : "2"
+      } ],
+      "name" : "beth",
+      "phone" : "369258147",
+      "srn" : "PES1201807y43",
+      "status" : "1",
+      "total" : "$120.00"
+    },
+    "1587143312414" : {
+      "foods" : [ {
+        "discount" : "0",
+        "price" : "50",
+        "productID" : "05",
+        "productName" : "French Fries",
+        "quantity" : "3"
+      }, {
+        "discount" : "0",
+        "price" : "60",
+        "productID" : "-M4geBNHDWTD9qnrmull",
+        "productName" : "Tangy Tomato",
+        "quantity" : "1"
+      } ],
+      "name" : "Hasifa",
+      "phone" : "9738669396",
+      "srn" : "TEST",
+      "status" : "1",
+      "total" : "$210.00"
+    },
+    "1587664225476" : {
+      "foods" : [ {
+        "discount" : "0",
+        "price" : "50",
+        "productID" : "05",
+        "productName" : "French Fries",
+        "quantity" : "1"
+      }, {
+        "discount" : "0",
+        "price" : "50",
+        "productID" : "05",
+        "productName" : "French Fries",
+        "quantity" : "1"
+      }, {
+        "discount" : "0",
+        "price" : "60",
+        "productID" : "-M4geBNHDWTD9qnrmull",
+        "productName" : "Tangy Tomato",
+        "quantity" : "1"
+      }, {
+        "discount" : "0",
+        "price" : "50",
+        "productID" : "01",
+        "productName" : "Masala Dosa",
+        "quantity" : "1"
+      }, {
+        "discount" : "0",
+        "price" : "90",
+        "productID" : "-M4PqHX6Hfq1A3lDkOs9",
+        "productName" : "Halwa",
+        "quantity" : "1"
+      } ],
+      "name" : "Nitesh Jain",
+      "phone" : "9343087750",
+      "srn" : "1975",
+      "status" : "2",
+      "total" : "$300.00"
+    },
+    "1599156604883" : {
+      "foods" : [ {
+        "discount" : "0",
+        "price" : "50",
+        "productID" : "05",
+        "productName" : "French Fries",
+        "quantity" : "1"
+      }, {
+        "discount" : "0",
+        "price" : "55",
+        "productID" : "03",
+        "productName" : "Vegan rice",
+        "quantity" : "1"
+      } ],
+      "name" : "gg",
+      "phone" : "9380860307",
+      "srn" : "pes1201802827",
+      "status" : "0",
+      "total" : "$105.00"
+    },
+    "1627820850324" : {
+      "foods" : [ {
+        "discount" : "0",
+        "price" : "50",
+        "productID" : "05",
+        "productName" : "French Fries",
+        "quantity" : "1"
+      } ],
+      "name" : "Sabarish ",
+      "phone" : "9688031731",
+      "srn" : "1",
+      "status" : "0",
+      "total" : "$50.00"
+    },
+    "1636988787024" : {
+      "foods" : [ {
+        "discount" : "0",
+        "price" : "60",
+        "productID" : "-M4geBNHDWTD9qnrmull",
+        "productName" : "Tangy Tomato",
+        "quantity" : "2"
+      } ],
+      "name" : "Shahbaaz Khan",
+      "phone" : "984654321",
+      "srn" : "PES12011022",
+      "status" : "0",
+      "total" : "$120.00"
+    }
+  },
+  "User" : {
+    "123" : {
+      "isStaff" : "false",
+      "name" : "jdjd",
+      "password" : "123",
+      "phone" : "123"
+    },
+    "654" : {
+      "isStaff" : "false",
+      "name" : "thy",
+      "password" : "thythy",
+      "phone" : "654"
+    },
+    "1111" : {
+      "isStaff" : "false",
+      "name" : "1111",
+      "password" : "1111",
+      "phone" : "1111"
+    },
+    "1234" : {
+      "isStaff" : "true",
+      "name" : "Tom Cruise",
+      "password" : "abcd"
+    },
+    "12345" : {
+      "isStaff" : "false",
+      "name" : "abab",
+      "password" : "1234",
+      "phone" : "12345"
+    },
+    "123456" : {
+      "isStaff" : "false",
+      "name" : "roh",
+      "password" : "roh",
+      "phone" : "123456"
+    },
+    "1111111" : {
+      "isStaff" : "false",
+      "name" : "Heehe",
+      "password" : "aaaa",
+      "phone" : "1111111"
+    },
+    "12345678" : {
+      "isStaff" : "false",
+      "name" : "Hqhq",
+      "password" : "qqqq",
+      "phone" : "12345678"
+    },
+    "32990575" : {
+      "isStaff" : "false",
+      "name" : "Sonu",
+      "password" : "1234",
+      "phone" : "32990575"
+    },
+    "123456789" : {
+      "isStaff" : "false",
+      "name" : "Anand",
+      "password" : "abcd",
+      "phone" : "123456789"
+    },
+    "123654987" : {
+      "isStaff" : "false",
+      "name" : "cath",
+      "password" : "cathcath",
+      "phone" : "123654987"
+    },
+    "369258147" : {
+      "isStaff" : "false",
+      "name" : "beth",
+      "password" : "bethbeth",
+      "phone" : "369258147"
+    },
+    "984654321" : {
+      "isStaff" : "false",
+      "name" : "Shahbaaz Khan",
+      "password" : "12345678",
+      "phone" : "984654321"
+    },
+    "987654321" : {
+      "isStaff" : "false",
+      "name" : "Smith",
+      "password" : "abcd",
+      "phone" : "987654321"
+    },
+    "0988123123" : {
+      "isStaff" : "false",
+      "name" : "Sham",
+      "password" : "1234",
+      "phone" : "0988123123"
+    },
+    "1234567890" : {
+      "isStaff" : "false",
+      "name" : "Raju Ram",
+      "password" : "abcd",
+      "phone" : "1234567890"
+    },
+    "7848003517" : {
+      "isStaff" : "false",
+      "name" : "Himanshu",
+      "password" : "abcd",
+      "phone" : "7848003517"
+    },
+    "9123456789" : {
+      "isStaff" : "false",
+      "name" : "roh",
+      "password" : "roh",
+      "phone" : "9123456789"
+    },
+    "9343087750" : {
+      "isStaff" : "false",
+      "name" : "Nitesh Jain",
+      "password" : "1975",
+      "phone" : "9343087750"
+    },
+    "9380860307" : {
+      "isStaff" : "false",
+      "name" : "gg",
+      "password" : "test",
+      "phone" : "9380860307"
+    },
+    "9538256271" : {
+      "isStaff" : "false",
+      "name" : "Newuser",
+      "password" : "test",
+      "phone" : "9538256271"
+    },
+    "9538256281" : {
+      "isStaff" : "false",
+      "name" : "Soorya",
+      "password" : "test",
+      "phone" : "9538256281"
+    },
+    "9620263472" : {
+      "isStaff" : "false",
+      "name" : "beth",
+      "password" : "bethbeth",
+      "phone" : "9620263472"
+    },
+    "9688031731" : {
+      "isStaff" : "false",
+      "name" : "Sabarish ",
+      "password" : "Sabari123",
+      "phone" : "9688031731"
+    },
+    "9738669396" : {
+      "isStaff" : "false",
+      "name" : "Hasifa",
+      "password" : "test",
+      "phone" : "9738669396"
+    },
+    "9738669399" : {
+      "isStaff" : "false",
+      "name" : "Tester",
+      "password" : "test",
+      "phone" : "9738669399"
+    },
+    "9845535940" : {
+      "isStaff" : "false",
+      "name" : "ann",
+      "password" : "annann",
+      "phone" : "9845535940"
+    },
+    "9986550607" : {
+      "isStaff" : "false",
+      "name" : "harryPotter",
+      "password" : "1234",
+      "phone" : "9986550607"
+    }
+  }
+}
